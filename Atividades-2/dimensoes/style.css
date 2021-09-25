@@ -1,0 +1,21 @@
+.red {
+  box-sizing: border-box;
+  width: 700px;
+  padding: 0px;
+  background-color: red;
+  position: absolute;
+  top: 50%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.green {
+  box-sizing: border-box;
+  width: 700px;
+  padding: 25px;
+  background-color: green;
+  position: absolute;
+  top: 50%;
+  margin-left: 20%;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+img {
+  height: 180px;
+  width: 180px;
+}
+
+div {
+  float: left;
+  background-color: green;
+}
+
+footer p {
+  background-color: gray;
+  font: italic;
+}
